@@ -1,0 +1,16 @@
+C:\Repos\HueController\HueController\bin\Debug\HueController.exe.config
+C:\Repos\HueController\HueController\bin\Debug\HueController.exe
+C:\Repos\HueController\HueController\bin\Debug\HueController.pdb
+C:\Repos\HueController\HueController\bin\Debug\Q42.HueApi.dll
+C:\Repos\HueController\HueController\bin\Debug\Newtonsoft.Json.dll
+C:\Repos\HueController\HueController\obj\Debug\HueController.csprojAssemblyReference.cache
+C:\Repos\HueController\HueController\obj\Debug\HueController.csproj.CoreCompileInputs.cache
+C:\Repos\HueController\HueController\obj\Debug\HueController.csproj.CopyComplete
+C:\Repos\HueController\HueController\obj\Debug\HueController.exe
+C:\Repos\HueController\HueController\obj\Debug\HueController.pdb
+C:\Repos\HueController\HueController\bin\Debug\Newtonsoft.Json.xml
+C:\Repos\HueController\HueController\bin\Debug\System.Net.Http.dll
+C:\Repos\HueController\HueController\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Repos\HueController\HueController\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Repos\HueController\HueController\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Repos\HueController\HueController\bin\Debug\System.Security.Cryptography.X509Certificates.dll

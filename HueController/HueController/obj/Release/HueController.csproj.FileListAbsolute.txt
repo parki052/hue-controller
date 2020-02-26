@@ -1,0 +1,12 @@
+C:\Repos\HueController\HueController\bin\Release\HueController.exe.config
+C:\Repos\HueController\HueController\bin\Release\HueController.exe
+C:\Repos\HueController\HueController\bin\Release\HueController.pdb
+C:\Repos\HueController\HueController\bin\Release\Q42.HueApi.dll
+C:\Repos\HueController\HueController\bin\Release\Newtonsoft.Json.dll
+C:\Repos\HueController\HueController\bin\Release\Q42.HueApi.pdb
+C:\Repos\HueController\HueController\obj\Release\HueController.csprojAssemblyReference.cache
+C:\Repos\HueController\HueController\obj\Release\HueController.csproj.CoreCompileInputs.cache
+C:\Repos\HueController\HueController\obj\Release\HueController.csproj.CopyComplete
+C:\Repos\HueController\HueController\obj\Release\HueController.exe
+C:\Repos\HueController\HueController\obj\Release\HueController.pdb
+C:\Repos\HueController\HueController\bin\Release\Newtonsoft.Json.xml
